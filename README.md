@@ -1,2 +1,2 @@
 # java
-developing in JAVA
+Developing in JAVA
